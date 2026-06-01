@@ -52,7 +52,7 @@ cat portable-design-spec-generator.md >> CLAUDE.md
 
 ### Figma Make
 
-将 `figma-community-skill/SKILL.md` 上传到 Figma Make skill。
+将 `figma-design-spec-generator.md` 上传到 Figma Make skill。
 
 ## 📖 使用方式
 
