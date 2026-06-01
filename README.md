@@ -20,10 +20,9 @@
 design-spec-generator/
 ├── README.md                              ← 本文件
 ├── SKILL.md                               ← WorkBuddy 完整版 Skill
-├── portable-design-spec-generator.md     ← 跨平台便携版（Cursor / Claude Code / Codex）
+├── portable-design-spec-generator.md      ← 跨平台便携版（Cursor / Claude Code / Codex）
 ├── .gitignore
-├── figma-community-skill/
-│   └── SKILL.md                           ← Figma Make 专用版
+├── figma-design-spec-generator.md         ← Figma Make 专用版
 └── references/
     ├── extraction-guide.md                ← Figma 数据提取指南
     └── modular-template.md                ← 模块化模板结构
