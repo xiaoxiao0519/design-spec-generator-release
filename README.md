@@ -53,7 +53,7 @@ cat portable-design-spec-generator.md >> CLAUDE.md
 
 ### Figma Make
 
-将 `figma-community-skill/` 文件夹上传到 Figma Community Skills 平台，或打开 `figma-community-skill/SKILL.md` 复制粘贴到 Figma Make 对话框。
+将 `figma-community-skill/SKILL.md` 上传到 Figma Make skill。
 
 ## 📖 使用方式
 
